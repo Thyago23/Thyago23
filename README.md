@@ -1,4 +1,4 @@
-## Oi, eu sou o Emanoel Thyago, estudante de Engenharia da Computação!
+## Olá, me chamo Emanoel Thyago, e sou estudante de Engenharia da Computação no Cin UFPE!
 ### 📓 I have some experience with C and C++
 ### 🌱 I’m currently learning Computer Vision, Python and Java
 
@@ -13,7 +13,8 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div> 
+  </div>
+  </div>
   
     ###
     
