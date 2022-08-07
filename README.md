@@ -3,6 +3,8 @@
 ### 🌱 I’m currently learning Computer Vision, Python and Java
 ### 📧 You can reach me at my e-mail: emanoelthyago3002@gmail.com
 
+  ##
+
 <div align="center">
   <a href="https://github.com/Thyago23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thyago23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
