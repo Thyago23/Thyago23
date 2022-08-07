@@ -15,7 +15,8 @@
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-    ##
+  
+  ##
     
 <div align="bottom" > 
   <a href="https://www.instagram.com/thyagosantos.s/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
