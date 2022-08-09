@@ -1,7 +1,7 @@
 ## Olá, me chamo Emanoel Thyago, e sou estudante de Engenharia da Computação no Cin UFPE!
 ### 📓 I have some experience with C and C++
-### 🌱 I’m currently learning Computer Vision, Python and Java
-### 📧 You can reach me at my e-mail: emanoelthyago3002@gmail.com
+### 🌱 I’m currently on the second period of computer engineering graduation, and learning Python and Computer Vision in C++ and Python for myself
+### 📧 You can reach me at my e-mail: emanoelthyago3002@gmail.com or etcs@cin.ufpe.br
 
   ##
 
