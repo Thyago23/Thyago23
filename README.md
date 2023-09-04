@@ -1,6 +1,6 @@
-## Olá, me chamo Emanoel Thyago, e sou estudante de Engenharia da Computação no Centro de Informática da UFPE!
+## Olá, me chamo Thygas, e sou estudante de Engenharia da Computação no Centro de Informática da UFPE!
 ### 📓 I have some experience with C and C++
-### 🌱 I’m currently on the second period of computer engineering graduation, researching computer vision and artificial inteligence for autonomus drones at Robôcin!
+### 🌱 I’m currently on the fourth period of computer engineering graduation, researching computer vision and artificial inteligence for autonomus drones at Robôcin!
 ### 📧 You can reach me at my e-mail: emanoelthyago3002@gmail.com or etcs@cin.ufpe.br
 
   ##
